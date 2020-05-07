@@ -1,0 +1,56 @@
+h1{
+    color: black;
+    font-weight: 15px;
+    font-size: 90px;
+    padding : 30px;
+    padding-top : 250px;
+    padding-bottom : 300px;
+    background-color: #0093E9;
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #b5ffd2 100%);
+    font-family: 'Fira Sans', sans-serif;
+}
+h2{
+    font-family: 'Baloo', cursive;
+    color:rgb(8, 100, 8);
+
+}
+.everything{
+    align-items: center;
+}
+.cards{
+    border: 1px solid black;
+    margin: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-top: 0px;
+    border-left: 0px;
+    box-shadow: 1px 3px 3px 20px solid grey;
+
+}
+.btn{
+    border: 2px solid blue;
+    color:blue;
+    
+}
+.btn1{
+    border: 2px solid blue;
+    color: lightskyblue;
+    
+}
+.btn2{
+    border: 2px solid blue;
+    color:lightgreen;
+    
+}
+.btn:hover{
+    background-color : blue;
+    color:white;
+    width: 10%;
+}
+.container_fluid{
+    background-color: aqua;
+}
