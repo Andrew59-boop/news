@@ -6,13 +6,13 @@ h1{
     padding-top : 250px;
     padding-bottom : 300px;
     background-color: #0093E9;
-    background-color: #FFDEE9;
+    background-color: #292325;
     background-image: linear-gradient(0deg, #FFDEE9 0%, #b5ffd2 100%);
     font-family: 'Fira Sans', sans-serif;
 }
 h2{
     font-family: 'Baloo', cursive;
-    color:rgb(8, 100, 8);
+    color:rgb(16, 95, 16);
 
 }
 .everything{
